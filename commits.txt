@@ -1,0 +1,35 @@
+commit 833899b8f9274553da1cb0b2dc59935894955a24
+Author: antopia <soyantopia@gmail.com>
+Date:   Wed Apr 15 21:43:12 2015 -0500
+
+    agrege pagina web sives
+
+commit 3a837a5a8c92e55480ca435636e2c11733e7b9d5
+Author: antopia <soyantopia@gmail.com>
+Date:   Wed Apr 15 21:40:53 2015 -0500
+
+    agrege descripcion de mi
+
+commit f23acf5f45a774a902165d4d48c8d6b78ee11bef
+Author: antopia <soyantopia@gmail.com>
+Date:   Wed Apr 15 21:38:24 2015 -0500
+
+    agrege redes sociales
+
+commit 69afe752069cea23b28a79ac8d7f51402f2690a4
+Author: antopia <soyantopia@gmail.com>
+Date:   Wed Apr 15 21:29:00 2015 -0500
+
+    perfil web escrito
+
+commit 38d962c9dc2b4f90bf8dbd4c1155e37566c016bd
+Author: antopia <soyantopia@gmail.com>
+Date:   Wed Apr 15 21:26:36 2015 -0500
+
+    subi foto de perfil y mi nombre
+
+commit 25cefc0d0301833cd9eb6f8017320a60f58a0be6
+Author: antopia <soyantopia@gmail.com>
+Date:   Wed Apr 15 21:20:13 2015 -0500
+
+    estos son los archivos base de mi portafolio
